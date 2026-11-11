@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Zimri Jahdai López
 
-### 💻 Desarrollador Junior | Frontend • Backend • Bases de Datos
+### 💻 Desarrollador Full Stack | Frontend • Backend • Bases de Datos
 
 Desarrollador de software con formación técnica en Informática, conocimientos en tecnologías web, desarrollo de aplicaciones móviles y administración de bases de datos.
 
