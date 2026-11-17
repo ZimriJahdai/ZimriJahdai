@@ -98,6 +98,14 @@ Diseño y administración de bases de datos relacionales y NoSQL.
 
 Mi portafolio personal: https://portafolio-programador-git-main-zimri-jahdai.vercel.app/
 
+Gestion para una peluqueria, (.NET, Nodejs, JavaScript, Tailwild, JWT, PosgrestSQL, Vercel, Supabase, SQL Server): https://github.com/ZimriJahdai/HaircutFiveFriends-Full
+
+Gestor Restaurante, (.NET, Nodejs, JavaScript, Tailwild, JWT, PosgrestSQL, Vercel, Supabase, SQL Server): https://github.com/ValladaresCode/GestorRestaurantes.git
+
+Aplicacion Movil Bancario-Movil: (Reac Native, React, Nodejs, MongoDB, PostgrestSQL, Express, JWT, Tailwild) : https://github.com/ValladaresCode/Bancario-Movil.git
+
+Sistema de Gestio para Negocios: (Angular 22, TypeScript, RxJS7, Nodejs, Flutter y PosgrestSQL): https://github.com/ZimriJahdai/MiNegocio-GT.git
+
 ---
 
 ### "Aprendiendo, desarrollando y construyendo nuevas soluciones tecnológicas."
