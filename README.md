@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Zimri Jahdai López
+#  ¡Hola! Soy Zimri Jahdai López
 
 ### 💻 Desarrollador Full Stack | Frontend • Backend • Bases de Datos
 
@@ -10,30 +10,30 @@ Me apasiona crear soluciones tecnológicas, aprender nuevas herramientas y mejor
 
 ##  Sobre mí
 
-- 🎓 Formación como **Perito en Informática** en Fundación KINAL (2024–2026).
-- 💼 Experiencia como **DBA Junior**, realizando soporte y monitoreo de bases de datos SQL Server.
-- 🚀 Conocimientos en desarrollo Frontend y Backend, utilizando Java, Spring Boot, Node.js, React y Angular.
-- 📱 Desarrollo de aplicaciones móviles con React Native, Ionic y Flutter.
-- 🗄️ Conocimientos en SQL Server, PostgreSQL y MongoDB.
-- 🤝 Experiencia en proyectos de software individuales y colaborativos.
-- 📚 Autodidacta, responsable y comprometido con el aprendizaje continuo.
+-  Formación como **Perito en Informática** en Fundación KINAL (2024–2026).
+-  Experiencia como **DBA Junior**, realizando soporte y monitoreo de bases de datos SQL Server.
+-  Conocimientos en desarrollo Frontend y Backend, utilizando Java, Spring Boot, Node.js, React y Angular.
+-  Desarrollo de aplicaciones móviles con React Native, Ionic y Flutter.
+-  Conocimientos en SQL Server, PostgreSQL y MongoDB.
+-  Experiencia en proyectos de software individuales y colaborativos.
+-  Autodidacta, responsable y comprometido con el aprendizaje continuo.
 
 ---
 
-## 🚀 Tecnologías
+##  Tecnologías
 
-### 💻 Frontend
+###  Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,ionic" />
 
 **Otras tecnologías:** React Native.
 
-### ⚙️ Backend
+###  Backend
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,dotnet,docker" />
 <img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,java,spring,docker" />
 
-### 🗄️ Bases de datos
+###  Bases de datos
 
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" /><img src="https://thumbs.dreamstime.com/b/sql-database-server-isolated-flat-web-mobile-icon-word-vector-illustration-modern-background-128839153.jpg" width="48" height="48" alt="SQL Server" />
@@ -42,7 +42,7 @@ Me apasiona crear soluciones tecnológicas, aprender nuevas herramientas y mejor
 
 **Otras tecnologías:** Microsoft SQL Server.
 
-### 🛠️ Herramientas de desarrollo
+###  Herramientas de desarrollo
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,androidstudio" />
 
@@ -50,9 +50,9 @@ Me apasiona crear soluciones tecnológicas, aprender nuevas herramientas y mejor
 
 ---
 
-## 💼 Experiencia profesional
+##  Experiencia profesional
 
-### 🗄️ DBA Junior
+###  DBA Junior
 **Septiembre – noviembre de 2026**
 
 - Soporte y monitoreo de bases de datos SQL Server.
@@ -60,7 +60,7 @@ Me apasiona crear soluciones tecnológicas, aprender nuevas herramientas y mejor
 
 ---
 
-## 🎓 Formación académica
+##  Formación académica
 
 **Fundación KINAL**  
 Perito en Informática | 2024–2026
@@ -82,7 +82,7 @@ Diseño y administración de bases de datos relacionales y NoSQL.
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ZimriJahdai&show_icons=true&theme=github_dark)
 
