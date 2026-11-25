@@ -12,7 +12,7 @@ Me apasiona crear soluciones tecnológicas, aprender nuevas herramientas y mejor
 
 -  Formación como **Técnico en Informática** en Fundación KINAL (2024–2026).
 -  Experiencia como **DBA Junior**, realizando soporte y monitoreo de bases de datos SQL Server.
--  Conocimientos en desarrollo Frontend y Backend, utilizando Java, Spring Boot, Node.js, React y Angular.
+-  Conocimientos en desarrollo Frontend y Backend, utilizando Java, Spring Boot, Node.js, React y Angular, .NET, C#, entre otros.
 -  Desarrollo de aplicaciones móviles con React Native, Ionic y Flutter.
 -  Conocimientos en SQL Server, PostgreSQL y MongoDB.
 -  Experiencia en proyectos de software individuales y colaborativos.
