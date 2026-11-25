@@ -10,7 +10,7 @@ Me apasiona crear soluciones tecnológicas, aprender nuevas herramientas y mejor
 
 ##  Sobre mí
 
--  Formación como **Perito en Informática** en Fundación KINAL (2024–2026).
+-  Formación como **Técnico en Informática** en Fundación KINAL (2024–2026).
 -  Experiencia como **DBA Junior**, realizando soporte y monitoreo de bases de datos SQL Server.
 -  Conocimientos en desarrollo Frontend y Backend, utilizando Java, Spring Boot, Node.js, React y Angular.
 -  Desarrollo de aplicaciones móviles con React Native, Ionic y Flutter.
